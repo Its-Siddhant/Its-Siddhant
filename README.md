@@ -18,11 +18,11 @@
 
 - 💬 Ask me about **AI Agents , Generative AI and Cloud**
 
-- 📫 How to reach me **siddhu1604jain@gmail.com**
+- 📫 How to reach me : **siddhu1604jain@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h-2PWnsgNewJxJ7RfhHFITFzmAzXU0cn/view?usp=sharing](https://drive.google.com/file/d/1h-2PWnsgNewJxJ7RfhHFITFzmAzXU0cn/view?usp=sharing)
+- 📄 Know about my experiences : [https://drive.google.com/file/d/1h-2PWnsgNewJxJ7RfhHFITFzmAzXU0cn/view?usp=sharing](https://drive.google.com/file/d/1h-2PWnsgNewJxJ7RfhHFITFzmAzXU0cn/view?usp=sharing)
 
-- ⚡ Non-Tech Passions **I love writing,debating & playing chess!**
+- ⚡ Non-Tech Passions : **I love writing,debating & playing chess!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
