@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Its-Siddhant&label=Profile%20views&color=0e75b6&style=flat)
 
-<h1 align="center">Hi 👋🏻, I'm Sidd<h1 align="center">Hi 👋🏻, I'm Siddhant Jain</h1>
+<h1 align="center">Hi 👋🏻, I'm Siddhant Jain</h1>
 <h3 align="center">A Software Developer by Profession , Poet by Passion and Philosopher by Heart</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-siddhant&label=Profile%20views&color=0e75b6&style=flat" alt="its-siddhant" /> </p>
