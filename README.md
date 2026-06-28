@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Context Engineering & Agentic AI**
 
-- 👯 I’m looking to collaborate on **Doom Stack : An AI generated customized 3D printed**
+- 👯 I’m looking to collaborate on **Doom Stack : An AI generated customized 3D printer**
 
 - 🤝 I’m looking for a team to collaborate on **Zen AI : An AI which makes AI**
 
